@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner entrada=new Scanner(System.in);
 		
-		System.out.println("Hola Programación 1 de nuevo");
+		System.out.println("Hola Programación 1");
 
   }
 }
